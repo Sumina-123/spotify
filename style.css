@@ -67,24 +67,6 @@
    margin-bottom: 10px;
  }
  
- .sidebar-scroll {
-   height: 120px;
-   overflow-y: auto;
-   
- }
- .sidebar-scroll::-webkit-scrollbar {
-   background: transparent;
- }
- .sidebar-scroll::-webkit-scrollbar-thumb {
-   background: transparent;
-   width: 10px;
- }
- .sidebar-scroll:hover::-webkit-scrollbar-thumb {
-   background: #5c5b5b;
-   width: 5px;
-   
- }
-
  .create-playlist h4 {
    color: #fff;
    font-size: 15px;
