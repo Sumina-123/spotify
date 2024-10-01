@@ -85,43 +85,6 @@
    
  }
 
- /***/
- body {
-   background-color: #202020;
-   color: white;
-   font-family: Arial, sans-serif;
-}
-
-.artists {
-   display: flex;
-   justify-content: space-around;
-   padding: 20px;
-}
-
-.artist {
-   text-align: center;
-}
-
-.artist img {
-   width: 150px;
-   height: 150px;
-   border-radius: 50%;   /* Circular Image */
-   object-fit: cover;    /* Ensures the image fits properly */
-   border: 5px solid #000; /* Optional: Adds a border */
-}
-
-.name {
-   font-weight: bold;
-   margin-top: 10px;
-}
-
-.title {
-   font-size: 14px;
-   color: #aaa;
-}
-
-
- 
  .create-playlist h4 {
    color: #fff;
    font-size: 15px;
