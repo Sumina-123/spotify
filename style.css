@@ -130,68 +130,7 @@
  }
  
  
- .main-section{
-     margin-left: 300px;
-     background: #181818;
-     height: 100vh;
-     overflow-y: auto;
-     margin-bottom: 80px;
- }
- .main-section::-webkit-scrollbar {
-     background: transparent;
-   }
-   .main-section::-webkit-scrollbar-thumb {
-     background: transparent;
-     width: 10px;
-   }
-   .main-section:hover::-webkit-scrollbar-thumb {
-     background: #5c5b5b;
-     width: 5px;
-     
-   }
- .main-section .top-nav{
-     padding: 20px 30px;
-     background: #131212;
-     display: flex;
-     align-items: center;
-     justify-content: space-between;
- }
  
- .main-section .top-nav  button{
-     background: transparent;
-     border: 0;
-     outline: 0;
- }
- .main-section .top-nav .prev-btn button i{
-    color: #838181;
-    font-size: 22px;
-    margin-right: 20px;
- }
- 
- .top-nav .login-btn .sign-up{
-     color: #838181;
-     font-size: 16px;
-     font-weight: 600;
-     margin-right: 25px;
- }
- .top-nav .login-btn .sign-up:hover{
-     color: #ffffff;
-   
- }
- .top-nav .login-btn .login{
-     color: #242323;
-     font-size: 16px;
-     font-weight: 600;
-     background: #fff;
-     padding: 10px 15px;
-     border-radius: 20px;
-   
- }
- .top-nav .login-btn .login:hover{
-     background: #f3f3f3;
-   
-   
- }
  
  .spotify-playlist{
      padding: 20px 40px;
