@@ -320,35 +320,4 @@
       font-size: 15px;
       margin-bottom: 30px;
   }
-  .preview{
-      display: flex;
-      justify-content: space-between;
-      background: linear-gradient(to right, #ae2896, #509bf5);
-      position: fixed;
-      bottom: 0;
-      left: 0;
-      right: 0;
-      padding: 12px 40px;
-  }
-  
-  .preview h4{
-      font-size: 13px;
-      font-weight: 600;
-      margin-bottom: 10px;
-      color: #fff;
-  }
-  .preview p{
-      font-size: 16px;
-      font-weight: 400;
-      color: #fff;
-  }
-  
-  .preview button{
-      padding: 12px 30px;
-      border: 0;
-      outline: 0;
-      border-radius: 20px;
-      font-size: 14px;
-      font-weight: 600;
-      color: #000;
-  }
+ 
